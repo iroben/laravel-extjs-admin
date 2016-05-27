@@ -1,0 +1,46 @@
+
+.app-add:before {
+  font: 18px/1 FontAwesome;
+  color: #81cb31;
+  content: "\f0fe";
+}
+
+.app-remove:before {
+  font: 18px/1 FontAwesome;
+  color: #d15b47;
+  content: "\f014"
+}
+
+.app-edit:before {
+  font: 18px/1 FontAwesome;
+  color: #5fa2dd;
+  content: "\f044";
+}
+
+.app-setting:before {
+  font: 18px/1 FontAwesome;
+  //  color: #5fa2dd;
+  content: "\f013";
+}
+
+.app-danger:before {
+  font: 50px/1 FontAwesome;
+  color: #cb1919;
+  content: "\f071";
+}
+
+.app-users:before {
+  font: 18px/1 FontAwesome;
+  //  color: #5fa2dd;
+  content: "\f0c0";
+}
+
+.x-tool-setting {
+  font: 18px/1 FontAwesome;
+  //  color: #5fa2dd;
+  content: "\f0c0";
+}
+.margin2{
+  margin-left: 3px;
+  margin-right: 3px;
+}
